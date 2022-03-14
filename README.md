@@ -21,6 +21,7 @@ Olá, eu sou a Shirley Garcia 👋
   
   <a href="https://instagram.com/shiggarcia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/shirley.garcia.3910/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+    <a href = "mailto:garciashirley38@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/shirley-garcia-4b8306121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <img align="right" alt="Shi-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/48e7265ffcd57ba7480152f035b447fd.gif">
 </div
