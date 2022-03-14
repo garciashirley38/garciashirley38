@@ -3,6 +3,7 @@ Olá, eu sou a Shirley Garcia 👋
 - 🔭 Hoje trabalho na área administrativa, porem estou a procura de algo na área de tecnologia
 - 📖 Estudando HTML, CSS, JavaScript e Python
 - 😄 Pronomes: ela/dela
+- 🖥️ CodePen: https://codepen.io/your-work/
 
 <div align="center">
   <a href="https://github.com/garciashirley38">
