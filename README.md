@@ -1,6 +1,6 @@
 Olá, eu sou a Shirley Garcia 👋
 
-- 👩🏻‍💻 Trabalhando na área de Segurança da Informação 
+- 👩🏻‍💻 Trabalho na área de Segurança da Informação 
 - 📖 Estudando HTML, CSS, JavaScript e Python
 - 😄 Pronomes: ela/dela
 - 🖥️ CodePen: https://codepen.io/shirley-garcia
