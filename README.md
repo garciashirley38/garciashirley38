@@ -15,7 +15,7 @@ Olá, eu sou a Shirley Garcia 👋
   <img align="center" alt="Shi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Shi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Shi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Shi-Java" height="30" width="40" src=<"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Shi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/af18fad5bc48afb9226653e54cd964a4.gif" width="200" height="200" border="0" align="right"     alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
   
